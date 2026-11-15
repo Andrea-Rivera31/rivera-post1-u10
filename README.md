@@ -104,7 +104,7 @@ MockMvc, Postman/Newman y JaCoCo.
 
 ## Cómo compilar y ejecutar
 
-1. Clonar: `git clone https://github.com/Andrea-Rivera31/rivera-post1-u10.git
+1. Clonar: `git clone https://github.com/Andrea-Rivera31/rivera-post1-u10.git`
 2. Entrar al proyecto: `cd rivera-post1-u10/catalogo-productos`
 3. Ejecutar la aplicación: `./mvnw spring-boot:run`
 4. Ejecutar la suite con verificación de cobertura:
